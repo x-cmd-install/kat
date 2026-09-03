@@ -1,0 +1,60 @@
+about:
+  description: TUI and rule-based rendering engine for Kubernetes manifests
+  license: Apache-2.0
+  homepage: 
+  head: dddb922
+  archived: false
+  latestVersion: v0.28.1
+  collectedAt: 2026-09-03T05:13:41Z
+timeline:
+  created: 2025-05-16
+  lastCommit: 2026-07-09
+  lastRelease: 2025-11-30
+popularity:
+  star: 167
+  watcher: 1
+  fork: 1
+  release: 49
+  contributor: 1
+  pullRequest: 59
+  issue: 24
+language:
+  Go: 624292
+  Go Template: 1782
+  KCL: 918
+  Dockerfile: 843
+  Shell: 614
+totalLine: 628449
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 9
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 6
+    openPR: 21
+    closedIssue: 0
+    openIssue: 0
+    commit: 26
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 15
+    openPR: 26
+    closedIssue: 0
+    openIssue: 0
+    commit: 26
+  last360d:
+    since: 2025-09-08
+    release: 4
+    mergedPR: 163
+    openPR: 30
+    closedIssue: 0
+    openIssue: 1
+    commit: 234
