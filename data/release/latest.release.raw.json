@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 11189068,
       "digest": "sha256:4f07c9c5263049cf111f553dc2900b38b5c0843d8b89a247eed3ce3853079cf1",
-      "download_count": 832,
+      "download_count": 834,
       "created_at": "2025-11-30T23:00:25Z",
       "updated_at": "2025-11-30T23:00:26Z",
       "browser_download_url": "https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_x86_64.tar.gz"
