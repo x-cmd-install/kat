@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.28.1"
   latestRelease: "v0.28.1"
   latestPrerelease: "v0.14.1-rc.2"
-  collectedAt: 2026-09-10T20:56:10Z
+  collectedAt: 2026-09-10T22:51:25Z
 timeline:
   created: 2025-05-16
   lastCommit: 2026-07-09
@@ -87,7 +87,7 @@ total:
   commit: 621
 ---
 path: /home/runner/.x-repo/github.com/MacroPower/kat
-collectedAt: 2026-09-10T20:56:12Z
+collectedAt: 2026-09-10T22:51:26Z
 loc:
   Go:
     code: 18816
