@@ -22,7 +22,27 @@ x install kat
 - **Latest**: `v0.28.1` (2025-11-30)
 - **Last commit**: 2026-07-09
 - **Assets in release**: 16
-- **Published**: 2025-11-30T23:18:07Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/MacroPower/kat/releases/download/v0.28.1/checksums.txt) | 1.3 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/checksums.txt.sigstore.json) | 9.6 KiB | `other` |
+| [kat.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat.tar.gz) | 2.3 MiB | `native/unknown` |
+| [kat.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat.tar.gz.sbom.json) | 163.1 KiB | `other` |
+| [kat_Darwin_arm64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_arm64.tar.gz) | 10.2 MiB | `native/darwin/arm64` |
+| [kat_Darwin_arm64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_arm64.tar.gz.sbom.json) | 132.5 KiB | `native/darwin/arm64` |
+| [kat_Darwin_x86_64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_x86_64.tar.gz) | 10.9 MiB | `native/darwin/x64` |
+| [kat_Darwin_x86_64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_x86_64.tar.gz.sbom.json) | 132.6 KiB | `native/darwin/x64` |
+| [kat_Linux_arm64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_arm64.tar.gz) | 9.7 MiB | `native/linux/arm64` |
+| [kat_Linux_arm64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_arm64.tar.gz.sbom.json) | 132.4 KiB | `native/linux/arm64` |
+| [kat_Linux_x86_64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_x86_64.tar.gz) | 10.7 MiB | `native/linux/x64` |
+| [kat_Linux_x86_64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_x86_64.tar.gz.sbom.json) | 132.5 KiB | `native/linux/x64` |
+| [kat_Windows_arm64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_arm64.tar.gz) | 9.9 MiB | `native/win/arm64` |
+| [kat_Windows_arm64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_arm64.tar.gz.sbom.json) | 137.3 KiB | `native/win/arm64` |
+| [kat_Windows_x86_64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_x86_64.tar.gz) | 10.9 MiB | `native/win/x64` |
+| [kat_Windows_x86_64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_x86_64.tar.gz.sbom.json) | 137.4 KiB | `native/win/x64` |
 
 ## Popularity
 
@@ -57,8 +77,8 @@ Total: **22,777** lines of code across **126** files in the top 5 languages.
 Install metadata for kat lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kat` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kat.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kat.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:44:23Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:39:55Z._

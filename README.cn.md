@@ -4,7 +4,7 @@
 
 TUI and rule-based rendering engine for Kubernetes manifests
 
-![kat](https://repo.x-cmd.io/kat.svg)
+![kat](https://repo.x-cmd.io/kat.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,27 @@ x install kat
 - **最新版本**: `v0.28.1` (2025-11-30)
 - **最近提交**: 2026-07-09
 - **Release 含资产**: 16 个
-- **发布时间**: 2025-11-30T23:18:07Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/MacroPower/kat/releases/download/v0.28.1/checksums.txt) | 1.3 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/checksums.txt.sigstore.json) | 9.6 KiB | `other` |
+| [kat.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat.tar.gz) | 2.3 MiB | `native/unknown` |
+| [kat.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat.tar.gz.sbom.json) | 163.1 KiB | `other` |
+| [kat_Darwin_arm64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_arm64.tar.gz) | 10.2 MiB | `native/darwin/arm64` |
+| [kat_Darwin_arm64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_arm64.tar.gz.sbom.json) | 132.5 KiB | `native/darwin/arm64` |
+| [kat_Darwin_x86_64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_x86_64.tar.gz) | 10.9 MiB | `native/darwin/x64` |
+| [kat_Darwin_x86_64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_x86_64.tar.gz.sbom.json) | 132.6 KiB | `native/darwin/x64` |
+| [kat_Linux_arm64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_arm64.tar.gz) | 9.7 MiB | `native/linux/arm64` |
+| [kat_Linux_arm64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_arm64.tar.gz.sbom.json) | 132.4 KiB | `native/linux/arm64` |
+| [kat_Linux_x86_64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_x86_64.tar.gz) | 10.7 MiB | `native/linux/x64` |
+| [kat_Linux_x86_64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_x86_64.tar.gz.sbom.json) | 132.5 KiB | `native/linux/x64` |
+| [kat_Windows_arm64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_arm64.tar.gz) | 9.9 MiB | `native/win/arm64` |
+| [kat_Windows_arm64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_arm64.tar.gz.sbom.json) | 137.3 KiB | `native/win/arm64` |
+| [kat_Windows_x86_64.tar.gz](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_x86_64.tar.gz) | 10.9 MiB | `native/win/x64` |
+| [kat_Windows_x86_64.tar.gz.sbom.json](https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Windows_x86_64.tar.gz.sbom.json) | 137.4 KiB | `native/win/x64` |
 
 ## 流行度
 
@@ -61,4 +81,4 @@ kat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:44:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:39:56Z._
