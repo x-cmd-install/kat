@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10705510,
       "digest": "sha256:a4414dc8271618e4d6b55568cb4118dcf20315402a6432156b18ada9101548e9",
-      "download_count": 163,
+      "download_count": 164,
       "created_at": "2025-11-30T23:00:24Z",
       "updated_at": "2025-11-30T23:00:25Z",
       "browser_download_url": "https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 135645,
       "digest": "sha256:2543998aa8b4177ebf11de647036237599d5dd0b8509d7f7e798f1f369247aea",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2025-11-30T23:00:26Z",
       "updated_at": "2025-11-30T23:00:26Z",
       "browser_download_url": "https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Darwin_arm64.tar.gz.sbom.json"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10215891,
       "digest": "sha256:5ab272bbf48a87c54de843690af040150c433bcde97ebd4b37ad12994981edd7",
-      "download_count": 282,
+      "download_count": 285,
       "created_at": "2025-11-30T23:00:24Z",
       "updated_at": "2025-11-30T23:00:25Z",
       "browser_download_url": "https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 11189068,
       "digest": "sha256:4f07c9c5263049cf111f553dc2900b38b5c0843d8b89a247eed3ce3853079cf1",
-      "download_count": 844,
+      "download_count": 850,
       "created_at": "2025-11-30T23:00:25Z",
       "updated_at": "2025-11-30T23:00:26Z",
       "browser_download_url": "https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_x86_64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 135645,
       "digest": "sha256:02f079fe17e07d768fa648237aaa7bf95de52d8f08d566d977e863ecbb26f510",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2025-11-30T23:00:26Z",
       "updated_at": "2025-11-30T23:00:27Z",
       "browser_download_url": "https://github.com/MacroPower/kat/releases/download/v0.28.1/kat_Linux_x86_64.tar.gz.sbom.json"
