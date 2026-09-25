@@ -47,12 +47,12 @@ Total: **22,777** lines of code across **126** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 7 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 17 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 1 | 26 | 0 | 0 | 24 |
-| last180d | 2026-03-28 | 0 | 13 | 27 | 0 | 0 | 26 |
-| 360d | 2025-09-29 | 4 | 141 | 35 | 0 | 1 | 215 |
-| last720d | 2024-10-04 | 49 | 271 | 35 | 19 | 5 | 621 |
+| 30d | 2026-08-26 | 0 | 0 | 7 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 18 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 1 | 27 | 0 | 0 | 24 |
+| last180d | 2026-03-29 | 0 | 13 | 28 | 0 | 0 | 26 |
+| 360d | 2025-09-30 | 4 | 140 | 35 | 0 | 1 | 215 |
+| last720d | 2024-10-05 | 49 | 271 | 35 | 19 | 5 | 621 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for kat lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:49:27Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:58:32Z._
